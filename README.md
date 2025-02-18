@@ -1,1 +1,3 @@
-This folder includes various ML projects
+This folder includes various ML projects.
+1) Liniear Regression: This is Apartment Price Prediction (Sberbank Russian Housing Market). I built a regression model to predict apartment prices, reducing prediction error by over 60% using feature engineering and hyperparameter optimization.
+2) RecSys: THis is Social Network Post Recommendation System. I built a recommendation system for social network posts, deployed in a scalable API via FastAPI, optimized for low-latency real-time prediction. FastAPI was used to serve the model via a web endpoint for real-time predictions. XGBoost, LightGBM, and CatBoost models were examined and compared.
